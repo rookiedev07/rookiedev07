@@ -1,25 +1,18 @@
-# Hello, I'm Mujahid! 👨‍💻
+# Hi, I'm Mujahid 👋
 
----
+SDE Intern building production software — not just class assignments.
 
-## About Me
+- 🔭 Currently interning as an **SDE Intern**, working on a **.NET → .NET Core migration** and rebuilding a company website frontend from scratch
+- 🏫 Co-built and shipped **TRCAC EduVeda**, a full LMS (React/Vite + Node/Express/MongoDB) for a real college — approved by the institution's trustee, currently rolling out to real staff and students
+- 🌐 Built a full client-facing website for **Your Source Global**, a BPO/outsourcing company
+- 📚 Currently leveling up through **Linux → RHCSA → cybersecurity**, going deep on infrastructure and security instead of grinding standard DSA
+- 🎮 Also tinker with game dev and AI side projects when I get the time
 
-I'm a Computer Science student with a strong passion for building and innovating through technology. My core interests include:
+### Tech I work with
+`JavaScript` `TypeScript` `React` `Node.js / Express` `MongoDB` `.NET / .NET Core` `Linux`
 
-- 🎮 **Game Development** – where my creativity meets code to craft interactive, story-driven experiences.
-- 🤖 **AI Development** – exploring intelligent systems to solve real-world problems and enhance human potential.
-- ⚙️ **Currently Learning DevOps** – diving into CI/CD, infrastructure automation, and modern deployment workflows.
+### What I'm about
+I like building things that real people actually depend on — not just things that pass a grading rubric. If a project I ship breaks, it's someone else's workday, not just my grade.
 
----
-
-## Collaboration
-
-I'm always excited to collaborate on innovative projects, share ideas, and learn from like-minded developers.  
-If you’re working on something exciting or want to build together, feel free to reach out!
-
----
- 
-## Get in Touch
-
-📧 You can contact me at: **[rookiedev.mujahid@gmail.com]**  
-Portfolio: mujahid-portfolio-pearl.vercel.app
+### Let's connect
+Feel free to check out my pinned repos below, or reach out if you want to talk about Linux, backend systems, or building software for people who aren't your professor.
